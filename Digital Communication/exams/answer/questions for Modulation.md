@@ -1,4 +1,12 @@
-# question for Modulation
+# question for papers
+
+待讨论问题：
+
+1.22年Q1判断是QAM还是APSK
+
+2.8PSK的IQ分量
+
+
 
 ## Tutorial 1
 
@@ -66,8 +74,26 @@
 
 (2)
 
+## Tutorial on Information theory
+
+1.(a) the quick brown fox jumps over the lazy dog: 35 leters, letters occur equal probability, 1/26.
+
+Information for this message is $35 * log_2{36} = $
+
+(b)
+
+(c)for this letters set, source entropy is 
 
 
 
+$8.167\% * \log_2{\frac{1}{8.167\%}} + 1.492\%*\log_2{\frac{1}{1.492\%}}$
 
-#
+
+
+(d)
+
+2.
+
+(a)两个骰子和可能的结果有2 3 4 5 6 7 8 9 10 11 12，两个骰子的点数组合可能有6*6=36种
+
+(b)
